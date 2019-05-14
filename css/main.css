@@ -107,19 +107,18 @@ body {
 
 h1 {
     text-align: center;
-    font-family: 'Bowlby One SC', cursive;
+    font-family: 'Permanent Marker';
     width: 80%;
     margin: auto;
     font-size: 4.75vw;
-    background: pink;
 }
 
 p {
     text-align: center;
-    font-family: 'Bowlby One SC', cursive;
+    font-family: 'Permanent Marker';
     width: 70%;
     margin: auto;
-    font-size: .75vw;
+    font-size: 2.75vw;
 }
 
 
